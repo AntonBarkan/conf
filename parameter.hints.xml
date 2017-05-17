@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java" />
+      <blacklist language="Java">
+        <added pattern="org.hibernate.SharedSessionContract.getNamedQuery(queryName)" />
+        <added pattern="com.sapiens.bdms.core.persistence.hibernate.infra.GenericHibernateDao.getNamedQuery(queryName,values)" />
+      </blacklist>
+    </blacklists>
+    <option id="sql.show.column.names.in.insert.values" value="false" />
+  </component>
+</application>
