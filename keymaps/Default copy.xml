@@ -5,4 +5,7 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="ctrl c" />
   </action>
+  <action id="Compare.LastVersion">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="ctrl l" />
+  </action>
 </keymap>
