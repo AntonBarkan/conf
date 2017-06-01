@@ -13,8 +13,6 @@
       <mask>*.fea</mask>
       <mask>*.fe</mask>
       <mask>*.f</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.x</mask>
       <mask>*.xmkk</mask>
@@ -26,9 +24,6 @@
       <mask>xml</mask>
       <mask>*xml</mask>
       <mask>*.xml</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>p</mask>
       <mask>po</mask>
       <mask>pom</mask>
@@ -36,6 +31,11 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
