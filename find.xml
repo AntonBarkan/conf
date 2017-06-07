@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pom" />
     <recentFileMasks>
-      <mask>*.jacva</mask>
-      <mask>*.jacv</mask>
-      <mask>*.jac</mask>
-      <mask>*.java`</mask>
       <mask>*.fea</mask>
       <mask>*.fe</mask>
       <mask>*.f</mask>
@@ -34,6 +31,10 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.p</mask>
+      <mask>*.po</mask>
+      <mask>*pom</mask>
+      <mask>*.pom</mask>
     </recentFileMasks>
   </component>
 </application>
