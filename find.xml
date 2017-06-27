@@ -20,20 +20,20 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>p.xml</mask>
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
       <mask>.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.pom</mask>
       <mask>*.po</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>*sq</mask>
       <mask>*sql</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
