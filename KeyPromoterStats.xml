@@ -4,7 +4,7 @@
       <map>
         <entry key="'Alt+1'" value="1" />
         <entry key="'Alt+4'" value="5" />
-        <entry key="'Alt+9'" value="6" />
+        <entry key="'Alt+9'" value="7" />
         <entry key="'Alt+F7'" value="33" />
         <entry key="'Alt+Shift+A'" value="2" />
         <entry key="'Ctrl+Alt+S'" value="1" />
@@ -19,7 +19,7 @@
         <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="19" />
         <entry key="'F4'" value="2" />
         <entry key="'F7'" value="21" />
-        <entry key="'Shift+F10'" value="14" />
+        <entry key="'Shift+F10'" value="17" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="2" />
         <entry key="'Shift+F7'" value="5" />
       </map>
