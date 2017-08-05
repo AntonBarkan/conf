@@ -16,23 +16,23 @@
         <entry key="'Ctrl+Alt+Z'" value="4" />
         <entry key="'Ctrl+Back Slash, Ctrl+A'" value="31" />
         <entry key="'Ctrl+F2'" value="14" />
-        <entry key="'Ctrl+F5'" value="110" />
+        <entry key="'Ctrl+F5'" value="115" />
         <entry key="'Ctrl+H'" value="1" />
         <entry key="'Ctrl+P'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="21" />
-        <entry key="'Ctrl+Shift+F8'" value="1" />
+        <entry key="'Ctrl+Shift+F8'" value="2" />
         <entry key="'Ctrl+Shift+T'" value="1" />
         <entry key="'Ctrl+T'" value="1" />
-        <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="27" />
+        <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="36" />
         <entry key="'F4'" value="2" />
-        <entry key="'F7'" value="74" />
-        <entry key="'F8'" value="108" />
+        <entry key="'F7'" value="95" />
+        <entry key="'F8'" value="114" />
         <entry key="'F9'" value="17" />
         <entry key="'Insert'" value="8" />
         <entry key="'Shift+F10'" value="24" />
-        <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="3" />
+        <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="5" />
         <entry key="'Shift+F7'" value="5" />
-        <entry key="'Shift+F8'" value="4" />
+        <entry key="'Shift+F8'" value="5" />
         <entry key="'Shift+F9'" value="6" />
       </map>
     </option>
