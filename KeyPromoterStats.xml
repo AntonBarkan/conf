@@ -18,7 +18,7 @@
         <entry key="'Ctrl+Alt+Up'" value="7" />
         <entry key="'Ctrl+Alt+Z'" value="15" />
         <entry key="'Ctrl+Back Slash, Ctrl+A'" value="35" />
-        <entry key="'Ctrl+F2'" value="25" />
+        <entry key="'Ctrl+F2'" value="28" />
         <entry key="'Ctrl+F5'" value="141" />
         <entry key="'Ctrl+H'" value="1" />
         <entry key="'Ctrl+P'" value="1" />
@@ -36,7 +36,7 @@
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="8" />
         <entry key="'Shift+F7'" value="5" />
         <entry key="'Shift+F8'" value="9" />
-        <entry key="'Shift+F9'" value="12" />
+        <entry key="'Shift+F9'" value="15" />
       </map>
     </option>
   </component>
