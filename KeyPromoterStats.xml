@@ -21,7 +21,7 @@
         <entry key="'Ctrl+Back Slash, Ctrl+C'" value="1" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="1" />
         <entry key="'Ctrl+D'" value="1" />
-        <entry key="'Ctrl+F2'" value="32" />
+        <entry key="'Ctrl+F2'" value="33" />
         <entry key="'Ctrl+F5'" value="158" />
         <entry key="'Ctrl+F9'" value="1" />
         <entry key="'Ctrl+H'" value="1" />
@@ -31,17 +31,17 @@
         <entry key="'Ctrl+Shift+T'" value="1" />
         <entry key="'Ctrl+Shift+U'" value="2" />
         <entry key="'Ctrl+T'" value="4" />
-        <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="45" />
+        <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="63" />
         <entry key="'F4'" value="15" />
         <entry key="'F7'" value="396" />
         <entry key="'F8'" value="234" />
-        <entry key="'F9'" value="38" />
-        <entry key="'Insert'" value="14" />
+        <entry key="'F9'" value="39" />
+        <entry key="'Insert'" value="15" />
         <entry key="'Shift+F10'" value="37" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="8" />
         <entry key="'Shift+F7'" value="27" />
         <entry key="'Shift+F8'" value="9" />
-        <entry key="'Shift+F9'" value="21" />
+        <entry key="'Shift+F9'" value="22" />
       </map>
     </option>
   </component>
