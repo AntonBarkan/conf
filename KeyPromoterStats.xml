@@ -20,7 +20,7 @@
         <entry key="'Ctrl+Alt+Up'" value="8" />
         <entry key="'Ctrl+Alt+Z'" value="18" />
         <entry key="'Ctrl+Back Slash, Ctrl+A'" value="37" />
-        <entry key="'Ctrl+Back Slash, Ctrl+C'" value="3" />
+        <entry key="'Ctrl+Back Slash, Ctrl+C'" value="4" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="1" />
         <entry key="'Ctrl+D'" value="3" />
         <entry key="'Ctrl+F2'" value="77" />
@@ -35,7 +35,7 @@
         <entry key="'Ctrl+T'" value="4" />
         <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="63" />
         <entry key="'F4'" value="15" />
-        <entry key="'F7'" value="452" />
+        <entry key="'F7'" value="453" />
         <entry key="'F8'" value="370" />
         <entry key="'F9'" value="44" />
         <entry key="'Insert'" value="17" />
