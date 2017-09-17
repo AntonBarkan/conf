@@ -39,7 +39,7 @@
         <entry key="'Ctrl+T'" value="12" />
         <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="75" />
         <entry key="'F4'" value="17" />
-        <entry key="'F7'" value="551" />
+        <entry key="'F7'" value="554" />
         <entry key="'F8'" value="391" />
         <entry key="'F9'" value="50" />
         <entry key="'Insert'" value="25" />
@@ -47,7 +47,7 @@
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="23" />
         <entry key="'Shift+F7'" value="71" />
         <entry key="'Shift+F8'" value="18" />
-        <entry key="'Shift+F9'" value="130" />
+        <entry key="'Shift+F9'" value="132" />
       </map>
     </option>
   </component>
