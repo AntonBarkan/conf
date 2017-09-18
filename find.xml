@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
     <recentFileMasks>
-      <mask>.</mask>
-      <mask>.j</mask>
       <mask>.ja</mask>
       <mask>.jav</mask>
       <mask>.java</mask>
@@ -15,8 +13,6 @@
       <mask>pom.*</mask>
       <mask>.xml</mask>
       <mask>*.pom</mask>
-      <mask>*.po</mask>
-      <mask>*.p</mask>
       <mask>*</mask>
       <mask>*sq</mask>
       <mask>*sql</mask>
@@ -34,6 +30,10 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.p</mask>
+      <mask>*.po</mask>
+      <mask>*.pop</mask>
+      <mask>*.pop*</mask>
     </recentFileMasks>
   </component>
 </application>
