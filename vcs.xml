@@ -10,9 +10,13 @@
           <option name="url" value="https://github.com/sapienstech/decision-packaging.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sapienstech/decision-client-ng2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\workspaces\java\maven" />
+    <option name="cloneParentDir" value="C:\d\" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/decision" />
