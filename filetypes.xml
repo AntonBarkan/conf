@@ -14,6 +14,7 @@
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="find_int_columns.sql" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="proporties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
